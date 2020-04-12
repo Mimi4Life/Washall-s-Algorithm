@@ -1,1 +1,1 @@
-# Washall-s-Algorithm
+# Washall's-Algorithm
